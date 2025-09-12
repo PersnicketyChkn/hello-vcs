@@ -1,0 +1,1 @@
+"# Hello VCS\n\nWhy version control?\n\n- 🛡️ Safety: Never lose work again\n- 🤝 Collaboration: Work with others smoothly\n- 📈 History: See how your project evolved\n- 💼 Professional: Recruiters expect it\n" 
